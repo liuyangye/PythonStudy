@@ -8,10 +8,9 @@ while bingo == False:
     answer = input()
 
     if answer < num:
-
-        print 'too small!'
+        print '%d is too small!' % answer
     if answer > num:
-        print 'too big!'
+        print '%d is too big!' % answer
     if answer == num:
-        print 'BINGO!'
+        print 'Bingo, %d is the right answer!' % answer
         bingo = True

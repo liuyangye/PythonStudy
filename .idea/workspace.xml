@@ -21,22 +21,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="18" />
+          <entry key="py" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="18" />
+          <entry key="Python" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="9679" />
+          <entry key="dummy" value="4" />
+          <entry key="py" value="10415" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="9679" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="10415" />
         </counts>
       </usages-collector>
     </session>
@@ -44,24 +46,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/temp.py">
+        <entry file="file://$USER_HOME$/Desktop/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="353" selection-start-line="353" selection-end-line="369" selection-end-column="37" />
+            <state relative-caret-position="216">
+              <caret line="397" selection-start-line="397" selection-end-line="413" selection-end-column="25" />
               <folding>
-                <marker date="1539072388204" expanded="true" signature="1983:2065" ph="..." />
-                <marker date="1539072388204" expanded="true" signature="5750:6219" ph="..." />
-                <marker date="1539072388204" expanded="true" signature="5842:6080" ph="..." />
+                <element signature="e#6646#6655#0" expanded="true" />
+                <marker date="1539167244703" expanded="true" signature="1983:2065" ph="..." />
+                <marker date="1539167244703" expanded="true" signature="5845:6092" ph="..." />
+                <marker date="1539167244703" expanded="true" signature="6255:7021" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Crawling_Movie_Information_with_Multi-threading.py">
+        <entry file="file://$PROJECT_DIR$/Backup_the_File.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+            <state relative-caret-position="432">
+              <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -91,8 +97,10 @@
         <option value="$PROJECT_DIR$/An_Example_for_Class.py" />
         <option value="$PROJECT_DIR$/An_Example_for_Regular_Expression.py" />
         <option value="$PROJECT_DIR$/An_Example_for_List_Comprehension.py" />
-        <option value="$USER_HOME$/Desktop/temp.py" />
         <option value="$PROJECT_DIR$/Crawling_Movie_Information_with_Multi-threading.py" />
+        <option value="$USER_HOME$/Desktop/temp.py" />
+        <option value="$USER_HOME$/Desktop/test.py" />
+        <option value="$PROJECT_DIR$/Backup_the_File.py" />
       </list>
     </option>
   </component>
@@ -148,7 +156,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/temp.py" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -162,7 +170,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.temp">
+  <component name="RunManager" selected="Python.test">
     <configuration name="A_Simple_File_Process" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -289,7 +297,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="temp" type="PythonConfigurationType" factoryName="Python">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python">
       <module name="PythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -301,7 +309,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/temp.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -313,7 +321,7 @@
     <list>
       <item itemvalue="Python.Lesson3" />
       <item itemvalue="Python.An_Example_for_Regular_Expression" />
-      <item itemvalue="Python.temp" />
+      <item itemvalue="Python.test" />
       <item itemvalue="Python.A_small_game" />
       <item itemvalue="Python.A_Smal_Number_Guess_Game" />
       <item itemvalue="Python.Punishes_the_Spot_Kick" />
@@ -350,7 +358,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33055887" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2841855" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.34363854" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -438,22 +446,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/temp.py">
+    <entry file="file://$PROJECT_DIR$/Crawling_Movie_Information_with_Multi-threading.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="353" selection-start-line="353" selection-end-line="369" selection-end-column="37" />
+        <state relative-caret-position="390">
+          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="397" selection-start-line="397" selection-end-line="413" selection-end-column="25" />
           <folding>
-            <marker date="1539072388204" expanded="true" signature="1983:2065" ph="..." />
-            <marker date="1539072388204" expanded="true" signature="5750:6219" ph="..." />
-            <marker date="1539072388204" expanded="true" signature="5842:6080" ph="..." />
+            <element signature="e#6646#6655#0" expanded="true" />
+            <marker date="1539167244703" expanded="true" signature="1983:2065" ph="..." />
+            <marker date="1539167244703" expanded="true" signature="5845:6092" ph="..." />
+            <marker date="1539167244703" expanded="true" signature="6255:7021" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Crawling_Movie_Information_with_Multi-threading.py">
+    <entry file="file://$PROJECT_DIR$/Backup_the_File.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        <state relative-caret-position="432">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

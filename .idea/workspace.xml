@@ -21,24 +21,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="19" />
+          <entry key="py" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="19" />
+          <entry key="Python" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="4" />
-          <entry key="py" value="10415" />
+          <entry key="py" value="12220" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Python" value="10415" />
+          <entry key="Python" value="12220" />
         </counts>
       </usages-collector>
     </session>
@@ -48,26 +48,23 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Desktop/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="397" selection-start-line="397" selection-end-line="413" selection-end-column="25" />
+            <state relative-caret-position="351">
+              <caret line="458" selection-start-line="458" selection-end-line="498" selection-end-column="58" />
               <folding>
                 <element signature="e#6646#6655#0" expanded="true" />
-                <marker date="1539167244703" expanded="true" signature="1983:2065" ph="..." />
-                <marker date="1539167244703" expanded="true" signature="5845:6092" ph="..." />
-                <marker date="1539167244703" expanded="true" signature="6255:7021" ph="..." />
+                <marker date="1539248063501" expanded="true" signature="1983:2065" ph="..." />
+                <marker date="1539248063501" expanded="true" signature="5845:6092" ph="..." />
+                <marker date="1539248063501" expanded="true" signature="8744:8967" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Backup_the_File.py">
+        <entry file="file://$PROJECT_DIR$/An_Example_for_Inheritance.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="470">
+              <caret line="40" column="58" selection-start-line="40" selection-start-column="58" selection-end-line="40" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -99,8 +96,9 @@
         <option value="$PROJECT_DIR$/An_Example_for_List_Comprehension.py" />
         <option value="$PROJECT_DIR$/Crawling_Movie_Information_with_Multi-threading.py" />
         <option value="$USER_HOME$/Desktop/temp.py" />
-        <option value="$USER_HOME$/Desktop/test.py" />
         <option value="$PROJECT_DIR$/Backup_the_File.py" />
+        <option value="$USER_HOME$/Desktop/test.py" />
+        <option value="$PROJECT_DIR$/An_Example_for_Inheritance.py" />
       </list>
     </option>
   </component>
@@ -358,7 +356,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2841855" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29131985" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.34363854" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -453,26 +451,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/test.py">
+    <entry file="file://$PROJECT_DIR$/Backup_the_File.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="397" selection-start-line="397" selection-end-line="413" selection-end-column="25" />
+        <state relative-caret-position="243">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
-            <element signature="e#6646#6655#0" expanded="true" />
-            <marker date="1539167244703" expanded="true" signature="1983:2065" ph="..." />
-            <marker date="1539167244703" expanded="true" signature="5845:6092" ph="..." />
-            <marker date="1539167244703" expanded="true" signature="6255:7021" ph="..." />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Backup_the_File.py">
+    <entry file="file://$USER_HOME$/Desktop/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        <state relative-caret-position="351">
+          <caret line="458" selection-start-line="458" selection-end-line="498" selection-end-column="58" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#6646#6655#0" expanded="true" />
+            <marker date="1539248063501" expanded="true" signature="1983:2065" ph="..." />
+            <marker date="1539248063501" expanded="true" signature="5845:6092" ph="..." />
+            <marker date="1539248063501" expanded="true" signature="8744:8967" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/An_Example_for_Inheritance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="40" column="58" selection-start-line="40" selection-start-column="58" selection-end-line="40" selection-end-column="58" />
         </state>
       </provider>
     </entry>

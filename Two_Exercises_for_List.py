@@ -1,4 +1,4 @@
-# We expect output: 'apples, bananas, tofu, and cats'
+# Output expected: 'apples, bananas, tofu, and cats'
 
 spam = ['apples', 'bananas', 'tofu', 'cats']
 
@@ -7,13 +7,15 @@ def func(Parameter):
     print "'"+ Parameter[0] + ', ' + Parameter[1] + ', ' + Parameter[2] + ', ' + Parameter[3] + "'"
 
 func(spam)
-# We expect output: ..00.00..
+
+
+
+# Output expected:  ..00.00..
 #                   .0000000.
 #                   .0000000.
 #                   ..00000..
 #                   ...000...
 #                   ....0....
-
 
 grid = [['.', '.', '.', '.', '.', '.'],
         ['.', '0', '0', '.', '.', '.'],

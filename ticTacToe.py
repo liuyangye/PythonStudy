@@ -17,7 +17,7 @@ for i in range(9):
     move = raw_input()
     theBoard[move] = turn
     if turn == 'X':
-        trun = 0
+        turn = '0'
     else:
         turn = 'X'
 

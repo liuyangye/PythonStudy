@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="415742fa-b0af-4485-a391-408ee1a8c390" name="Default Changelist" comment="" />
+    <list default="true" id="415742fa-b0af-4485-a391-408ee1a8c390" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,22 +48,22 @@
     <session id="-395129875">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="7" />
+          <entry key="py" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="7" />
+          <entry key="Python" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="5594" />
+          <entry key="py" value="6913" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="5594" />
+          <entry key="Python" value="6913" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
@@ -78,22 +80,23 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Desktop/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="346" lean-forward="true" selection-start-line="346" selection-end-line="346" />
+            <state relative-caret-position="379">
+              <caret line="400" lean-forward="true" selection-start-line="383" selection-end-line="400" />
               <folding>
-                <marker date="1540825267806" expanded="true" signature="6045:7736" ph="..." />
-                <marker date="1540825267806" expanded="true" signature="7865:8022" ph="..." />
-                <marker date="1540825267806" expanded="true" signature="7865:8195" ph="..." />
+                <marker date="1540984335007" expanded="true" signature="6045:7736" ph="..." />
+                <marker date="1540984335007" expanded="true" signature="7865:8022" ph="..." />
+                <marker date="1540984335007" expanded="true" signature="7865:8359" ph="..." />
+                <marker date="1540984335007" expanded="true" signature="8787:9677" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Inventory.py">
+        <entry file="file://$PROJECT_DIR$/Insecure_Password_Locker.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="503">
-              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+            <state relative-caret-position="360">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -132,8 +135,9 @@
         <option value="$PROJECT_DIR$/motorcycle.py" />
         <option value="$PROJECT_DIR$/Two_Exercises_for_List.py" />
         <option value="$PROJECT_DIR$/ticTacToe.py" />
-        <option value="$USER_HOME$/Desktop/test.py" />
         <option value="$PROJECT_DIR$/Inventory.py" />
+        <option value="$USER_HOME$/Desktop/test.py" />
+        <option value="$PROJECT_DIR$/Insecure_Password_Locker.py" />
       </list>
     </option>
   </component>
@@ -185,7 +189,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/temp.py" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -382,12 +386,12 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14799154" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14799154" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26506025" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26024097" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.34363854" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -550,22 +554,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Inventory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="623">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/Desktop/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="346" lean-forward="true" selection-start-line="346" selection-end-line="346" />
+        <state relative-caret-position="379">
+          <caret line="400" lean-forward="true" selection-start-line="383" selection-end-line="400" />
           <folding>
-            <marker date="1540825267806" expanded="true" signature="6045:7736" ph="..." />
-            <marker date="1540825267806" expanded="true" signature="7865:8022" ph="..." />
-            <marker date="1540825267806" expanded="true" signature="7865:8195" ph="..." />
+            <marker date="1540984335007" expanded="true" signature="6045:7736" ph="..." />
+            <marker date="1540984335007" expanded="true" signature="7865:8022" ph="..." />
+            <marker date="1540984335007" expanded="true" signature="7865:8359" ph="..." />
+            <marker date="1540984335007" expanded="true" signature="8787:9677" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Inventory.py">
+    <entry file="file://$PROJECT_DIR$/Insecure_Password_Locker.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="360">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>

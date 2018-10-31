@@ -1,4 +1,3 @@
-
 import sys, pyperclip
 
 PASSWORDS = {'email': 'F7minlBDDuvMJuxESSKHFhTxFtjVB6',

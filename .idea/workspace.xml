@@ -46,22 +46,22 @@
     <session id="-395129875">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="8" />
+          <entry key="py" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="8" />
+          <entry key="Python" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="7244" />
+          <entry key="py" value="8432" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="7244" />
+          <entry key="Python" value="8432" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
@@ -75,17 +75,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Desktop/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="409" column="71" selection-start-line="409" selection-start-column="71" selection-end-line="409" selection-end-column="71" />
+            <state relative-caret-position="444">
+              <caret line="437" lean-forward="true" selection-start-line="415" selection-end-line="437" />
               <folding>
-                <marker date="1541072933155" expanded="true" signature="6045:7736" ph="..." />
-                <marker date="1541072933155" expanded="true" signature="7865:8022" ph="..." />
-                <marker date="1541072933155" expanded="true" signature="7865:8359" ph="..." />
-                <marker date="1541072933155" expanded="true" signature="8787:9981" ph="..." />
+                <marker date="1541416265644" expanded="true" signature="6045:7736" ph="..." />
+                <marker date="1541416265644" expanded="true" signature="7865:8022" ph="..." />
+                <marker date="1541416265644" expanded="true" signature="7865:8359" ph="..." />
+                <marker date="1541416265644" expanded="true" signature="10561:10609" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Print_Table.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -98,6 +107,11 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>colWidth</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -126,7 +140,9 @@
         <option value="$PROJECT_DIR$/ticTacToe.py" />
         <option value="$PROJECT_DIR$/Inventory.py" />
         <option value="$PROJECT_DIR$/Insecure_Password_Locker.py" />
+        <option value="$PROJECT_DIR$/bulletPointAdder.py" />
         <option value="$USER_HOME$/Desktop/test.py" />
+        <option value="$PROJECT_DIR$/Print_Table.py" />
       </list>
     </option>
   </component>
@@ -375,12 +391,12 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14799154" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14799154" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26024097" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32650602" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.34363854" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -557,16 +573,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/bulletPointAdder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/Desktop/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="409" column="71" selection-start-line="409" selection-start-column="71" selection-end-line="409" selection-end-column="71" />
+        <state relative-caret-position="444">
+          <caret line="437" lean-forward="true" selection-start-line="415" selection-end-line="437" />
           <folding>
-            <marker date="1541072933155" expanded="true" signature="6045:7736" ph="..." />
-            <marker date="1541072933155" expanded="true" signature="7865:8022" ph="..." />
-            <marker date="1541072933155" expanded="true" signature="7865:8359" ph="..." />
-            <marker date="1541072933155" expanded="true" signature="8787:9981" ph="..." />
+            <marker date="1541416265644" expanded="true" signature="6045:7736" ph="..." />
+            <marker date="1541416265644" expanded="true" signature="7865:8022" ph="..." />
+            <marker date="1541416265644" expanded="true" signature="7865:8359" ph="..." />
+            <marker date="1541416265644" expanded="true" signature="10561:10609" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Print_Table.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>

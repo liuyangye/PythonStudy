@@ -46,22 +46,22 @@
     <session id="-395129875">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="11" />
+          <entry key="py" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="11" />
+          <entry key="Python" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="9525" />
+          <entry key="py" value="10534" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="9525" />
+          <entry key="Python" value="10534" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
@@ -78,24 +78,24 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Desktop/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="481" lean-forward="true" selection-start-line="439" selection-end-line="481" />
+            <state relative-caret-position="444">
+              <caret line="536" lean-forward="true" selection-start-line="482" selection-end-line="536" />
               <folding>
-                <marker date="1541500918607" expanded="true" signature="6045:7736" ph="..." />
-                <marker date="1541500918607" expanded="true" signature="7865:8022" ph="..." />
-                <marker date="1541500918607" expanded="true" signature="7865:8359" ph="..." />
-                <marker date="1541500918607" expanded="true" signature="10667:11112" ph="..." />
-                <marker date="1541500918607" expanded="true" signature="10667:11742" ph="..." />
+                <marker date="1541602827569" expanded="true" signature="6045:7736" ph="..." />
+                <marker date="1541602827569" expanded="true" signature="7865:8022" ph="..." />
+                <marker date="1541602827569" expanded="true" signature="7865:8359" ph="..." />
+                <marker date="1541602827569" expanded="true" signature="10668:11131" ph="..." />
+                <marker date="1541602827569" expanded="true" signature="10668:13478" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/isPhoneNumber.py">
+        <entry file="file://$PROJECT_DIR$/Examples_for_Regular_Expression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="452">
-              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+            <state relative-caret-position="472">
+              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
             </state>
           </provider>
         </entry>
@@ -143,8 +143,9 @@
         <option value="$PROJECT_DIR$/Insecure_Password_Locker.py" />
         <option value="$PROJECT_DIR$/bulletPointAdder.py" />
         <option value="$PROJECT_DIR$/Print_Table.py" />
-        <option value="$USER_HOME$/Desktop/test.py" />
         <option value="$PROJECT_DIR$/isPhoneNumber.py" />
+        <option value="$USER_HOME$/Desktop/test.py" />
+        <option value="$PROJECT_DIR$/Examples_for_Regular_Expression.py" />
       </list>
     </option>
   </component>
@@ -393,12 +394,12 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14799154" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14799154" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32650602" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32650602" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.34363854" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -589,24 +590,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/isPhoneNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/Desktop/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="481" lean-forward="true" selection-start-line="439" selection-end-line="481" />
+        <state relative-caret-position="444">
+          <caret line="536" lean-forward="true" selection-start-line="482" selection-end-line="536" />
           <folding>
-            <marker date="1541500918607" expanded="true" signature="6045:7736" ph="..." />
-            <marker date="1541500918607" expanded="true" signature="7865:8022" ph="..." />
-            <marker date="1541500918607" expanded="true" signature="7865:8359" ph="..." />
-            <marker date="1541500918607" expanded="true" signature="10667:11112" ph="..." />
-            <marker date="1541500918607" expanded="true" signature="10667:11742" ph="..." />
+            <marker date="1541602827569" expanded="true" signature="6045:7736" ph="..." />
+            <marker date="1541602827569" expanded="true" signature="7865:8022" ph="..." />
+            <marker date="1541602827569" expanded="true" signature="7865:8359" ph="..." />
+            <marker date="1541602827569" expanded="true" signature="10668:11131" ph="..." />
+            <marker date="1541602827569" expanded="true" signature="10668:13478" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/isPhoneNumber.py">
+    <entry file="file://$PROJECT_DIR$/Examples_for_Regular_Expression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        <state relative-caret-position="472">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
         </state>
       </provider>
     </entry>
